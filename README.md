@@ -1,4 +1,4 @@
-# vortex-vision
+# square-one
 Auto Object Detection and Dimension Measurement with Computer Vision. 
 
 # Introduction
